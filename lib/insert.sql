@@ -1,0 +1,2 @@
+INSERT INTO projects VALUES
+()
