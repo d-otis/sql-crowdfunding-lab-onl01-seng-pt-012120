@@ -8,4 +8,4 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 ("Voice to MIDI Software", "software", 25000, "20200101", "20201230"),
 ("Organix Shoes", "clothing", 15000, "20200215", "20200421"),
 ("New Fangled Shaving Razors", "personal care", 20000, "20200301", "20200715"),
-("Synthesizer", "musical instrument", 50000, "20200301", "20200330");
+("Synthesizer", "musical instrument", 50000, "20200101", "20201130");
