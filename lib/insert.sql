@@ -32,4 +32,19 @@ INSERT INTO users (name, age) VALUES
 ("The Circle", 100),
 ("JP", 35);
 
-INSERT INTO pledges ()
+INSERT INTO pledges (amount, user_id, project_id) VALUES
+(),
+(),
+(),
+(),
+(),
+(),
+(),
+(),
+(),
+(),
+(),
+(),
+(),
+(),
+(),
