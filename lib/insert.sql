@@ -10,4 +10,8 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 ("New Fangled Shaving Razors", "personal care", 20000, "20200301", "20200715"),
 ("Synthesizer", "musical instrument", 50000, "20200101", "20201130");
 
-INSERT INTO users ()
+INSERT INTO users (name, age) VALUES
+("Dan", 20),
+("Danny", 21),
+("Daniel", 22),
+("Victor", 22),
