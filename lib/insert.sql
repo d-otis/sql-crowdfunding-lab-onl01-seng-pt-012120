@@ -29,5 +29,5 @@ INSERT INTO users (name, age) VALUES
 ("Sabine", 40),
 ("Miguel", 40),
 ("David J Rios", 40),
-("Sandra", 69),
-("Sandra", 69);
+("The Circle", 100),
+("JP", 35);
