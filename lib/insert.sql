@@ -31,3 +31,5 @@ INSERT INTO users (name, age) VALUES
 ("David J Rios", 40),
 ("The Circle", 100),
 ("JP", 35);
+
+INSERT INTO pledges ()
